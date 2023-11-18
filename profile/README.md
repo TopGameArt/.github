@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:TopGameArt?theme=rule34">
 
 # 顶级游戏艺术工作室
 
