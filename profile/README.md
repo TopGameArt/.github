@@ -1,12 +1,10 @@
-## Hi there 👋
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-<!--
+# 顶级游戏艺术工作室
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thangchung.thangchung)
+[<img alt="github" src="https://img.shields.io/badge/github-thangchung-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/ArvinRoad)
+
+### 工作室成立于：2023 年 11 月
